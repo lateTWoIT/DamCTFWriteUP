@@ -1,4 +1,4 @@
-# DamCTFWriteUP
+# [de-compressed](https://github.com/lateTWoIT/DamCTFWriteUP/tree/main/de-compressed)
 
 ## Description
 
@@ -23,7 +23,7 @@ ________________________________________________________________________________
 
 Ran strings on the zip file and initially struggled with extracting the data. Attempted multiple unzip applications. 
 
->strings message.zip
+`strings message.zip`
 
 [jVn6b
 README.txt=
@@ -43,7 +43,7 @@ Now to extract the secret.txt
 
 Ultimately running a repair with WinRAR extracted the "Secret.txt" file that was present during the strings command.
 
->cat Secret.txt
+`cat Secret.txt`
 
 ‌‌‌‌‍‌‍‌I ‌‌‌‌‍‬‬‍read‌‌‌‌‍﻿‌﻿ ‌‌‌‌‍﻿‌‬between ‌‌‌‌‍‬‍‍‌‌‌‌‍‬‍﻿the‌‌‌‌‍‬‌‍‌‌‌‌‍﻿‌‬ lines, my ‌‌‌‌‍‬‍‌vision'‌‌‌‌‌‬‌‌s ‌‌‌‌‍﻿‍‌‌‌‌‌‍‬‬‌‌‌‌‌‍‬‍‍clear‌‌‌‌‌‬‌‌ and‌‌‌‌‍‍‌‬ keen‌‌‌‌‍‌‍‍
 I‌‌‌‌‍‌‌‍ ‌‌‌‌‍‌‍‌see ‌‌‌‌‍‌﻿‍the hidden‌‌‌‌‍‌‍‍ ‌‌‌‌‌‬﻿‌meanings, ‌‌‌‌‌‬‌‌the truths ‌‌‌‌‍‌‬‍that‌‌‌‌‌‬‌‌‌‌‌‌‍‬‌‍ ‌‌‌‌‍‬﻿‍are unseen
