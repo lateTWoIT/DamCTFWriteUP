@@ -23,7 +23,7 @@ ________________________________________________________________________________
 
 Ran strings on the zip file and initially struggled with extracting the data. Attempted multiple unzip applications. 
 
->strings de-compressed
+>strings message.zip
 
 [jVn6b
 README.txt=
