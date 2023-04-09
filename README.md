@@ -10,7 +10,7 @@ Perchik
 
 __________________________________________________________________________________________________________________________________________
 
-As an elite cyber security expert, you've been tasked with uncovering the secrets hidden within a message intercepted from a notorious spy.
+>As an elite cyber security expert, you've been tasked with uncovering the secrets hidden within a message intercepted from a notorious spy.
 
 We suspect there may be more to this message than meets the eye. Can you use your skills in steganography to uncover whatever else might be hiding?
 
@@ -25,7 +25,7 @@ Ran strings on the zip file and initially struggled with extracting the data. At
 
 `strings message.zip`
 
-[jVn6b
+>[jVn6b
 README.txt=
 46X6i
 (MT>
@@ -45,7 +45,7 @@ Ultimately running a repair with WinRAR extracted the "Secret.txt" file that was
 
 `cat Secret.txt`
 
-‌‌‌‌‍‌‍‌I ‌‌‌‌‍‬‬‍read‌‌‌‌‍﻿‌﻿ ‌‌‌‌‍﻿‌‬between ‌‌‌‌‍‬‍‍‌‌‌‌‍‬‍﻿the‌‌‌‌‍‬‌‍‌‌‌‌‍﻿‌‬ lines, my ‌‌‌‌‍‬‍‌vision'‌‌‌‌‌‬‌‌s ‌‌‌‌‍﻿‍‌‌‌‌‌‍‬‬‌‌‌‌‌‍‬‍‍clear‌‌‌‌‌‬‌‌ and‌‌‌‌‍‍‌‬ keen‌‌‌‌‍‌‍‍
+>‌‌‌‌‍‌‍‌I ‌‌‌‌‍‬‬‍read‌‌‌‌‍﻿‌﻿ ‌‌‌‌‍﻿‌‬between ‌‌‌‌‍‬‍‍‌‌‌‌‍‬‍﻿the‌‌‌‌‍‬‌‍‌‌‌‌‍﻿‌‬ lines, my ‌‌‌‌‍‬‍‌vision'‌‌‌‌‌‬‌‌s ‌‌‌‌‍﻿‍‌‌‌‌‌‍‬‬‌‌‌‌‌‍‬‍‍clear‌‌‌‌‌‬‌‌ and‌‌‌‌‍‍‌‬ keen‌‌‌‌‍‌‍‍
 I‌‌‌‌‍‌‌‍ ‌‌‌‌‍‌‍‌see ‌‌‌‌‍‌﻿‍the hidden‌‌‌‌‍‌‍‍ ‌‌‌‌‌‬﻿‌meanings, ‌‌‌‌‌‬‌‌the truths ‌‌‌‌‍‌‬‍that‌‌‌‌‌‬‌‌‌‌‌‌‍‬‌‍ ‌‌‌‌‍‬﻿‍are unseen
 ‌‌‌‌‌‬‌‌I don'‌‌‌‌‍﻿‌﻿t ‌‌‌‌‍﻿‍‌‌‌‌‌‍‬‬‍‌‌‌‌‍‬﻿‌just‌‌‌‌‍‬﻿‌‌‌‌‌‌‬‌‌‌‌‌‌‍‬﻿﻿‌‌‌‌‍‬﻿‬‌‌‌‌‌‬‌‌ take ‌‌‌‌‍﻿‍‌things ‌‌‌‌‍‬‬‌at ‌‌‌‌‍‬‍‍face value,‌‌‌‌‌‬‌‌‌‌‌‌‍﻿‍‌ ‌‌‌‌‍‬‍‍that‌‌‌‌‍‬‌‍‌‌‌‌‍‬﻿‍‌‌‌‌‌‬﻿‬'s not‌‌‌‌‌‌‬‬ my‌‌‌‌‍‬‍‌‌‌‌‌‍‬‌‍ ‌‌‌‌‍‬﻿‍style
 I ‌‌‌‌‍﻿‬﻿‌‌‌‌‍﻿‍‌dig‌‌‌‌‌﻿‌‍‌‌‌‌‍‬﻿‍ ‌‌‌‌‌﻿‌﻿deep and I uncover‌‌‌‌‍‍﻿﻿‌‌‌‌‍﻿‍‌, the ‌‌‌‌‌﻿‌‌hidden‌‌‌‌‍‍﻿﻿ ‌‌‌‌‍‬‬﻿‌‌‌‌‍‬‬‍treasures‌‌‌‌‍‬‌﻿ ‌‌‌‌‍‬‬﻿that‌‌‌‌‍‍﻿﻿‌‌‌‌‍‬‌‬‌‌‌‌‌﻿‍‌‌‌‌‌‍‬‌﻿ ‌‌‌‌‍‬‬﻿‌‌‌‌‍‍﻿﻿are‌‌‌‌‌﻿‍‌ compiled‌‌‌‌‍
@@ -57,5 +57,5 @@ https://330k.github.io/misc_tools/unicode_steganography.html
 
 ## Flag
 
-Disregard the README, I am still on the team.
+>Disregard the README, I am still on the team.
 dam{t1m3_t0_kick_b4ck_4nd_r3l4x}
