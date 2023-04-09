@@ -23,9 +23,9 @@ Synopsis:
 
 Ran strings on the zip file and initially struggled with extracting the data. Attempted multiple unzip applications. 
 
-strings de-compressed
+>strings de-compressed
 
-[jVn6b
+>[jVn6b
 README.txt=
 46X6i
 (MT>
@@ -55,7 +55,7 @@ Used the following website to extract the message
 https://330k.github.io/misc_tools/unicode_steganography.html
 
 
-<h2> Flag </h2>
+#Flag
 
 Disregard the README, I am still on the team.
 dam{t1m3_t0_kick_b4ck_4nd_r3l4x}
