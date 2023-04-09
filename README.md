@@ -19,7 +19,7 @@ The fate of national security is in your hands.
 __________________________________________________________________________________________________________________________________________
 
 
-##Synopsis:
+## Synopsis:
 
 Ran strings on the zip file and initially struggled with extracting the data. Attempted multiple unzip applications. 
 
@@ -55,7 +55,7 @@ Used the following website to extract the message
 https://330k.github.io/misc_tools/unicode_steganography.html
 
 
-##Flag
+## Flag
 
 Disregard the README, I am still on the team.
 dam{t1m3_t0_kick_b4ck_4nd_r3l4x}
