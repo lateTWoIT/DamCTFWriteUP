@@ -19,13 +19,13 @@ The fate of national security is in your hands.
 __________________________________________________________________________________________________________________________________________
 
 
-Synopsis:
+##Synopsis:
 
 Ran strings on the zip file and initially struggled with extracting the data. Attempted multiple unzip applications. 
 
 >strings de-compressed
 
->[jVn6b
+[jVn6b
 README.txt=
 46X6i
 (MT>
@@ -43,7 +43,7 @@ Now to extract the secret.txt
 
 Ultimately running a repair with WinRAR extracted the "Secret.txt" file that was present during the strings command.
 
-cat Secret.txt
+>cat Secret.txt
 
 ‌‌‌‌‍‌‍‌I ‌‌‌‌‍‬‬‍read‌‌‌‌‍﻿‌﻿ ‌‌‌‌‍﻿‌‬between ‌‌‌‌‍‬‍‍‌‌‌‌‍‬‍﻿the‌‌‌‌‍‬‌‍‌‌‌‌‍﻿‌‬ lines, my ‌‌‌‌‍‬‍‌vision'‌‌‌‌‌‬‌‌s ‌‌‌‌‍﻿‍‌‌‌‌‌‍‬‬‌‌‌‌‌‍‬‍‍clear‌‌‌‌‌‬‌‌ and‌‌‌‌‍‍‌‬ keen‌‌‌‌‍‌‍‍
 I‌‌‌‌‍‌‌‍ ‌‌‌‌‍‌‍‌see ‌‌‌‌‍‌﻿‍the hidden‌‌‌‌‍‌‍‍ ‌‌‌‌‌‬﻿‌meanings, ‌‌‌‌‌‬‌‌the truths ‌‌‌‌‍‌‬‍that‌‌‌‌‌‬‌‌‌‌‌‌‍‬‌‍ ‌‌‌‌‍‬﻿‍are unseen
@@ -55,7 +55,7 @@ Used the following website to extract the message
 https://330k.github.io/misc_tools/unicode_steganography.html
 
 
-#Flag
+##Flag
 
 Disregard the README, I am still on the team.
 dam{t1m3_t0_kick_b4ck_4nd_r3l4x}
