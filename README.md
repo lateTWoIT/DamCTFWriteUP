@@ -1,6 +1,6 @@
 # [de-compressed](https://github.com/lateTWoIT/DamCTFWriteUP/tree/main/de-compressed)
 
-## Description
+## Description:
 
 misc/de-compressed
 
@@ -12,9 +12,9 @@ ________________________________________________________________________________
 
 >As an elite cyber security expert, you've been tasked with uncovering the secrets hidden within a message intercepted from a notorious spy.
 
-We suspect there may be more to this message than meets the eye. Can you use your skills in steganography to uncover whatever else might be hiding?
+>We suspect there may be more to this message than meets the eye. Can you use your skills in steganography to uncover whatever else might be hiding?
 
-The fate of national security is in your hands.
+>The fate of national security is in your hands.
 
 __________________________________________________________________________________________________________________________________________
 
@@ -55,7 +55,7 @@ Used the following website to extract the message
 https://330k.github.io/misc_tools/unicode_steganography.html
 
 
-## Flag
+## Flag:
 
 >Disregard the README, I am still on the team.
 dam{t1m3_t0_kick_b4ck_4nd_r3l4x}
