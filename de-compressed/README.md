@@ -18,7 +18,7 @@ The fate of national security is in your hands.
 
 __________________________________________________________________________________________________________________________________________
 
-<div>
+
 Synopsis:
 
 Ran strings on the zip file and initially struggled with extracting the data. Attempted multiple unzip applications. 
@@ -37,7 +37,8 @@ U#q@
 }Zpdlt
 [jVn6b
 README.txtPK
-[7:24 PM]
+
+
 Now to extract the secret.txt
 
 Ultimately running a repair with WinRAR extracted the "Secret.txt" file that was present during the strings command.
@@ -53,6 +54,8 @@ Used the following website to extract the message
 
 https://330k.github.io/misc_tools/unicode_steganography.html
 
+
+<h2> Flag </h2>
+
 Disregard the README, I am still on the team.
 dam{t1m3_t0_kick_b4ck_4nd_r3l4x}
-</div>
